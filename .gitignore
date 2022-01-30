@@ -30,7 +30,7 @@ devel_isolated/
 .cproject
 
 # qcreator stuff
-CMakeLists.txt.user
+CMakeLists.txt
 
 srv/_*.py
 *.pcd

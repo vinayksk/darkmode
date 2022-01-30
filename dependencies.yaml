@@ -1,0 +1,5 @@
+repositories:
+  f1tenth_simulator:
+    type: git
+    url: git@github.com:f1tenth/f1tenth_simulator.git
+    version: master

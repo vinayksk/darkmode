@@ -1,0 +1,24 @@
+# Topics that RRT listens to
+# TODO: add your own
+# TODO: change this to the pose topic published particle filter
+gt_pose_topic: "/gt_pose"
+pose_topic: "/pose"
+scan_topic: "/scan"
+drive_topic: "/nav"
+dx: 0.1
+dy: 0.1
+Lx: 6.0
+Ly: 6.0
+goal_x: -10
+goal_y: 0.0
+goal_tol: 0.1
+r_nbhd: 1.0
+r_steer: 0.9
+og_topic: '/occupancy_grid'
+path_topic: '/path'
+pp_lookahead: 1.0
+# Topics that RRT publishes to
+# TODO: add your own
+# visualization
+
+# TODO: add Parameters for RRT
