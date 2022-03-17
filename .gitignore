@@ -47,5 +47,7 @@ qtcreator-*
 # Emacs
 .#*
 
+/f1tenth_simulator/*
+
 # Catkin custom files
 CATKIN_IGNORE
