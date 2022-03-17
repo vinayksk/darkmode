@@ -30,7 +30,7 @@ devel_isolated/
 .cproject
 
 # qcreator stuff
-CMakeLists.txt
+# CMakeLists.txt
 
 srv/_*.py
 *.pcd
@@ -47,7 +47,7 @@ qtcreator-*
 # Emacs
 .#*
 
-/f1tenth_simulator/*
+f1tenth_simulator/
 
 # Catkin custom files
 CATKIN_IGNORE
